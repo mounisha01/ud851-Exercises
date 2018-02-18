@@ -20,7 +20,7 @@
 <!--TODO (6) Remove the line that declares the id, we don't need it-->
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:id="@+id/activity_main"
+    android:id="@+id/tv_toy_names"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
